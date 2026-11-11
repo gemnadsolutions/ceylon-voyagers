@@ -50,6 +50,8 @@ Enquiries currently download as local drafts; they are not sent to a backend. Th
 
 Serve the `dist/` directory with any static website host. Keep directory structure and relative paths intact. Hosting-account configuration and credentials are intentionally excluded from this repository.
 
+For GitHub Pages, select **Deploy from a branch**, **main**, and **/ (root)**. The root entry page forwards visitors to `dist/`, preserving enquiry parameters and section links. The `.nojekyll` file keeps the static website files unchanged during publication.
+
 ## Photography and content
 
 Third-party photo credits and licenses are included beside the relevant images and documented in `docs/`. Those licenses continue to apply to the corresponding assets. Other supplied brand and image assets should only be reused with the owner's permission.
