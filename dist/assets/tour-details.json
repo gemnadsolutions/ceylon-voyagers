@@ -1,0 +1,486 @@
+[
+  {
+    "slug": "island-overture",
+    "name": "Island Overture",
+    "tag": "THE CLASSIC ISLAND JOURNEY",
+    "duration": 10,
+    "pace": "Balanced discovery",
+    "description": "Ancient landmarks, tea country, wildlife and a final pause beside the sea.",
+    "route": [
+      "Colombo",
+      "Sigiriya",
+      "Kandy",
+      "Ella",
+      "Yala",
+      "Galle",
+      "Colombo"
+    ],
+    "hero": "destination-sigiriya.webp",
+    "moments": [
+      {
+        "category": "Heritage",
+        "title": "Sigiriya rock & cultural landscapes",
+        "image": "destination-sigiriya.webp"
+      },
+      {
+        "category": "Hill country",
+        "title": "Tea country & Ella viewpoints",
+        "image": "destination-ella.webp"
+      },
+      {
+        "category": "Wildlife",
+        "title": "Jeep safari around Yala",
+        "image": "photography-leopard.webp"
+      },
+      {
+        "category": "Coast",
+        "title": "Galle Fort & beach time",
+        "image": "explorer-galle-fort.webp"
+      }
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Colombo arrival",
+        "description": "Welcome and settle in after landing. If arrival time and energy allow, take an easy walk around Galle Face or Colombo Fort rather than scheduling a full sightseeing day.",
+        "highlights": "Galle Face; local dining; recovery time",
+        "overnight": "Colombo"
+      },
+      {
+        "day": 2,
+        "title": "Colombo to Sigiriya",
+        "description": "Travel inland toward the Cultural Triangle. An optional stop at the Dambulla cave-temple complex adds heritage before check-in, depending on arrival and transfer conditions.",
+        "highlights": "Scenic drive; Dambulla optional; relaxed evening",
+        "overnight": "Sigiriya / Habarana"
+      },
+      {
+        "day": 3,
+        "title": "Ancient Sigiriya",
+        "description": "Visit Sigiriya Rock Fortress early for cooler conditions and views. Choose a gentle village experience in the afternoon, or an optional Pidurangala viewpoint if a second climb suits the group.",
+        "highlights": "Sigiriya Rock; village life; Pidurangala optional",
+        "overnight": "Sigiriya / Habarana"
+      },
+      {
+        "day": 4,
+        "title": "From Sigiriya to Kandy",
+        "description": "Head south toward Kandy with a possible cultural or craft stop around Matale. Explore Kandy Lake and, if appropriate for the group, visit the Temple of the Sacred Tooth Relic.",
+        "highlights": "Matale corridor; Kandy Lake; sacred heritage",
+        "overnight": "Kandy"
+      },
+      {
+        "day": 5,
+        "title": "Tea country to Ella",
+        "description": "Cross the central highlands toward Ella, with tea scenery and a Nuwara Eliya-area stop. A rail segment is optional if schedules and seats fit; expect a longer transfer.",
+        "highlights": "Tea estates; highland viewpoints; rail option",
+        "overnight": "Ella"
+      },
+      {
+        "day": 6,
+        "title": "A slower day in Ella",
+        "description": "Enjoy an unhurried hill-country day. Walk toward Nine Arch Bridge, take the accessible Little Adam's Peak trail if conditions suit, and allow time for cafes, tea or simply the mountain views.",
+        "highlights": "Nine Arch Bridge; Little Adam's Peak; downtime",
+        "overnight": "Ella"
+      },
+      {
+        "day": 7,
+        "title": "Ella to Yala country",
+        "description": "Descend from the hills toward the southeastern plains. Stop for a waterfall or scenic viewpoint en route, then settle near the park and prepare for an early safari departure.",
+        "highlights": "Changing landscapes; Ravana Falls area; rest",
+        "overnight": "Tissamaharama / Yala area"
+      },
+      {
+        "day": 8,
+        "title": "Safari and the south coast",
+        "description": "Begin with a guided jeep safari in the Yala area if the park is operating. After a break, continue toward Galle; this is a substantial transfer day, so keep evening plans light.",
+        "highlights": "Yala wildlife habitat; coastal arrival",
+        "overnight": "Galle / south coast"
+      },
+      {
+        "day": 9,
+        "title": "Galle and seaside time",
+        "description": "Walk the ramparts and lanes of Galle Fort, browse small galleries and enjoy the coastal atmosphere. Spend the afternoon at a nearby beach or leave it unscheduled.",
+        "highlights": "Galle Fort; lighthouse area; coastal cafes",
+        "overnight": "Galle / Unawatuna"
+      },
+      {
+        "day": 10,
+        "title": "Return to Colombo",
+        "description": "Travel back toward Colombo and the airport, with departure timing planned around road conditions and flight check-in. Add an airport-area night when flight schedules require it.",
+        "highlights": "Coastal-to-capital transfer; onward journey",
+        "overnight": "Departure"
+      }
+    ]
+  },
+  {
+    "slug": "kingdoms-and-quiet-temples",
+    "name": "Kingdoms & Quiet Temples",
+    "tag": "THE HERITAGE JOURNEY",
+    "duration": 7,
+    "pace": "Heritage-focused",
+    "description": "A thoughtful passage through ancient cities, stone temples and living traditions.",
+    "route": [
+      "Negombo",
+      "Anuradhapura",
+      "Sigiriya",
+      "Polonnaruwa",
+      "Sigiriya",
+      "Dambulla",
+      "Kandy",
+      "Colombo"
+    ],
+    "hero": "destination-anuradhapura.webp",
+    "moments": [
+      {
+        "category": "Ancient cities",
+        "title": "Anuradhapura & Polonnaruwa",
+        "image": "destination-anuradhapura.webp"
+      },
+      {
+        "category": "Monument",
+        "title": "Sigiriya Rock Fortress",
+        "image": "destination-sigiriya.webp"
+      },
+      {
+        "category": "Temples",
+        "title": "Dambulla & Kandy heritage",
+        "image": "tour-story-3.webp"
+      },
+      {
+        "category": "Culture",
+        "title": "Local history, craft & cuisine",
+        "image": "tour-kandy-offerings.webp"
+      }
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "A gentle coastal welcome",
+        "description": "Arrive and transfer to Negombo for a low-pressure first day. Walk by the lagoon or beach if time allows, and rest before the inland journey.",
+        "highlights": "Negombo; lagoon atmosphere; arrival rest",
+        "overnight": "Negombo"
+      },
+      {
+        "day": 2,
+        "title": "Into the ancient capital",
+        "description": "Travel north to Anuradhapura. After check-in, begin exploring selected archaeological and sacred sites at a comfortable pace, respecting dress codes and worship practices.",
+        "highlights": "Sacred city; ancient stupas; archaeological landscape",
+        "overnight": "Anuradhapura"
+      },
+      {
+        "day": 3,
+        "title": "Sacred heritage to Sigiriya",
+        "description": "Continue the Anuradhapura visit, then head southeast toward Sigiriya. Mihintale can be an optional stop if time and mobility permit; sunset is best kept flexible.",
+        "highlights": "Mihintale optional; rural scenery; Sigiriya area",
+        "overnight": "Sigiriya / Habarana"
+      },
+      {
+        "day": 4,
+        "title": "Sigiriya and Polonnaruwa",
+        "description": "Visit Sigiriya early, then consider an afternoon exploration of Polonnaruwa's historic monuments. This is an active heritage day; travelers preferring a slower pace can shorten the second visit.",
+        "highlights": "Sigiriya Rock; Polonnaruwa heritage complex",
+        "overnight": "Sigiriya / Habarana"
+      },
+      {
+        "day": 5,
+        "title": "Cave temples and Kandy",
+        "description": "Travel south via the Dambulla Cave Temple and Matale countryside. Reach Kandy for lakeside views or an evening cultural experience depending on operating times.",
+        "highlights": "Dambulla; Matale; Kandy Lake",
+        "overnight": "Kandy"
+      },
+      {
+        "day": 6,
+        "title": "Living traditions, then Colombo",
+        "description": "Spend the morning on Kandy's cultural highlights, with the Temple of the Sacred Tooth Relic or Peradeniya gardens as options. Continue to Colombo for the final overnight.",
+        "highlights": "Kandy heritage; gardens optional; Colombo",
+        "overnight": "Colombo"
+      },
+      {
+        "day": 7,
+        "title": "Departure day",
+        "description": "Transfer to the airport with a generous travel buffer. If the flight is late, enjoy a gentle city breakfast or a short stop based on timing.",
+        "highlights": "Airport transfer; flexible final morning",
+        "overnight": "Departure"
+      }
+    ]
+  },
+  {
+    "slug": "tea-trails-and-waterfalls",
+    "name": "Tea Trails & Waterfalls",
+    "tag": "THE HILL-COUNTRY JOURNEY",
+    "duration": 7,
+    "pace": "Scenic discovery",
+    "description": "Cool mountain air, green tea slopes, railway scenes and cascading waterfalls.",
+    "route": [
+      "Colombo",
+      "Kandy",
+      "Nuwara Eliya",
+      "Ella",
+      "Haputale",
+      "Belihuloya",
+      "Colombo"
+    ],
+    "hero": "destination-ella.webp",
+    "moments": [
+      {
+        "category": "Tea",
+        "title": "Plantations, tasting & estate views",
+        "image": "tour-tea-estate.webp"
+      },
+      {
+        "category": "Waterfalls",
+        "title": "Ramboda / Ravana corridors",
+        "image": "tour-story-0.webp"
+      },
+      {
+        "category": "Rail",
+        "title": "Optional highland train segment",
+        "image": "destination-ella.webp"
+      },
+      {
+        "category": "Viewpoints",
+        "title": "Ella & Haputale landscapes",
+        "image": "tour-story-4.webp"
+      }
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival and first impressions",
+        "description": "Arrive and recover from travel near Colombo or Negombo. Keep the afternoon open for a short coastal or city stroll rather than a lengthy transfer.",
+        "highlights": "Easy first day; local welcome",
+        "overnight": "Colombo / Negombo"
+      },
+      {
+        "day": 2,
+        "title": "The road to Kandy",
+        "description": "Travel toward Kandy through changing tropical scenery. Visit Peradeniya Royal Botanic Gardens if time permits, then enjoy the lakeside city in the late afternoon.",
+        "highlights": "Peradeniya option; Kandy Lake; hill gateway",
+        "overnight": "Kandy"
+      },
+      {
+        "day": 3,
+        "title": "Waterfalls and tea country",
+        "description": "Follow the scenic highland road toward Nuwara Eliya, making time for a tea-estate visit or a Ramboda-area waterfall viewpoint. Evenings are cooler at this elevation.",
+        "highlights": "Ramboda corridor; tea factory; Nuwara Eliya",
+        "overnight": "Nuwara Eliya"
+      },
+      {
+        "day": 4,
+        "title": "The journey to Ella",
+        "description": "Continue across tea country. Where schedules and ticketing allow, substitute part of the road transfer with a scenic train journey from the Nanu Oya area toward Ella.",
+        "highlights": "Highland train optional; views; Ella arrival",
+        "overnight": "Ella"
+      },
+      {
+        "day": 5,
+        "title": "Ella at your own pace",
+        "description": "Photograph Nine Arch Bridge from an appropriate public viewpoint and walk Little Adam's Peak if the weather and mobility suit. Leave the afternoon open for tea, cafes or a nearby waterfall stop.",
+        "highlights": "Nine Arch Bridge; Little Adam's Peak; Ravana area",
+        "overnight": "Ella"
+      },
+      {
+        "day": 6,
+        "title": "Haputale and the green hills",
+        "description": "Head west through Haputale's tea-growing landscape. An early Lipton's Seat outing is an option before continuing toward Belihuloya for a quieter highland evening.",
+        "highlights": "Haputale; Lipton's Seat optional; forested hills",
+        "overnight": "Belihuloya"
+      },
+      {
+        "day": 7,
+        "title": "Back toward Colombo",
+        "description": "Return toward Colombo or the airport by road. Allow substantial transfer time and adjust the final overnight if the flight departs early the following morning.",
+        "highlights": "Scenic return; onward flight",
+        "overnight": "Departure"
+      }
+    ]
+  },
+  {
+    "slug": "wild-hearts-of-ceylon",
+    "name": "Wild Hearts of Ceylon",
+    "tag": "THE NATURE & WILDLIFE JOURNEY",
+    "duration": 8,
+    "pace": "Nature-focused",
+    "description": "Rainforest trails, elephant country, wetlands and the wild southeast.",
+    "route": [
+      "Negombo",
+      "Sinharaja",
+      "Udawalawe",
+      "Tissamaharama",
+      "Yala",
+      "Tangalle",
+      "Colombo"
+    ],
+    "hero": "photography-leopard.webp",
+    "moments": [
+      {
+        "category": "Rainforest",
+        "title": "Sinharaja nature walk",
+        "image": "tour-sinharaja.webp"
+      },
+      {
+        "category": "Elephants",
+        "title": "Udawalawe habitat experience",
+        "image": "tour-story-1.webp"
+      },
+      {
+        "category": "Safari",
+        "title": "Yala landscape & wildlife",
+        "image": "photography-leopard.webp"
+      },
+      {
+        "category": "Coastal nature",
+        "title": "Quiet lagoons & shorelines",
+        "image": "tour-story-2.webp"
+      }
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrival by the coast",
+        "description": "Arrive and spend a low-key night near the airport. An easy beach or lagoon walk is optional, with the focus on resting before the nature circuit.",
+        "highlights": "Negombo; lagoon atmosphere; orientation",
+        "overnight": "Negombo"
+      },
+      {
+        "day": 2,
+        "title": "Toward the rainforest",
+        "description": "Travel south toward a suitable Sinharaja access point and meet a local nature guide. The route and entry point should be selected with the guide and weather in mind.",
+        "highlights": "Rainforest gateway; village landscapes",
+        "overnight": "Deniyaya / Sinharaja gateway"
+      },
+      {
+        "day": 3,
+        "title": "A day in Sinharaja",
+        "description": "Explore approved rainforest trails with a knowledgeable guide, looking for birds, butterflies, endemic plants and forest textures. Prioritize a respectful, low-impact visit.",
+        "highlights": "Guided trail; birdlife; rainforest ecology",
+        "overnight": "Deniyaya / Sinharaja gateway"
+      },
+      {
+        "day": 4,
+        "title": "Rainforest to elephant country",
+        "description": "Drive to the dry-zone landscapes around Udawalawe. If schedules fit, consider an educational visit near the Elephant Transit Home before a quiet evening.",
+        "highlights": "Landscape transition; elephant conservation learning",
+        "overnight": "Udawalawe"
+      },
+      {
+        "day": 5,
+        "title": "Udawalawe safari",
+        "description": "Take an early or late guided jeep safari through designated park routes. Look for elephants and birdlife while respecting distance rules and natural animal behavior.",
+        "highlights": "Wildlife safari; reservoir plains; birdwatching",
+        "overnight": "Udawalawe"
+      },
+      {
+        "day": 6,
+        "title": "To the Yala region",
+        "description": "Continue to the Yala gateway and settle into a safari lodge or hotel area. Keep time for local wetlands or a quiet lakeside visit rather than rushing another full activity.",
+        "highlights": "Tissamaharama; wetland scenery; early rest",
+        "overnight": "Tissamaharama"
+      },
+      {
+        "day": 7,
+        "title": "Yala safari and the coast",
+        "description": "Take a guided Yala safari, subject to park access and conditions. After a rest, travel to the Tangalle area for a gentle coastal evening; add a Bundala stop only if time and energy allow.",
+        "highlights": "Yala habitat; safari photography; coast",
+        "overnight": "Tangalle"
+      },
+      {
+        "day": 8,
+        "title": "Return and departure",
+        "description": "Travel from the southern coast toward Colombo or the airport. This is a significant transfer, so build the plan around flight time or add a nearby-airport night.",
+        "highlights": "Coastal return; onward travel",
+        "overnight": "Departure"
+      }
+    ]
+  },
+  {
+    "slug": "saltwater-and-slow-days",
+    "name": "Saltwater & Slow Days",
+    "tag": "THE SOUTH COAST ESCAPE",
+    "duration": 7,
+    "pace": "Slow travel",
+    "description": "Fort-town charm, gentle surfing towns and room to simply enjoy the ocean.",
+    "route": [
+      "Colombo",
+      "Galle",
+      "Unawatuna",
+      "Weligama",
+      "Mirissa",
+      "Tangalle",
+      "Colombo"
+    ],
+    "hero": "tour-story-2.webp",
+    "moments": [
+      {
+        "category": "Heritage",
+        "title": "Galle Fort coastal lanes",
+        "image": "explorer-galle-fort.webp"
+      },
+      {
+        "category": "Beach time",
+        "title": "Unawatuna & Dalawella area",
+        "image": "destination-unawatuna.webp"
+      },
+      {
+        "category": "Surf",
+        "title": "Weligama with qualified instructors",
+        "image": "destination-arugam-bay.webp"
+      },
+      {
+        "category": "Unwind",
+        "title": "Mirissa to Tangalle shores",
+        "image": "coastal-banner.jpg"
+      }
+    ],
+    "days": [
+      {
+        "day": 1,
+        "title": "Arrive on the south coast",
+        "description": "Transfer from the airport toward Galle or Unawatuna and check in. Keep the remainder of the day free for rest and a first seaside dinner. A late flight may require an airport-area first night.",
+        "highlights": "Arrival; beach atmosphere; relaxed dining",
+        "overnight": "Galle / Unawatuna"
+      },
+      {
+        "day": 2,
+        "title": "Explore Galle Fort",
+        "description": "Take a leisurely walk through Galle Fort's streets, ramparts and galleries. Enjoy the lighthouse area and sea views, leaving time for cafes or boutiques.",
+        "highlights": "Galle Fort; ramparts; small galleries",
+        "overnight": "Galle / Unawatuna"
+      },
+      {
+        "day": 3,
+        "title": "A true beach day",
+        "description": "Enjoy a largely unscheduled day by the ocean. Choose a calm shoreline, a scenic cafe or a short coastal excursion according to water conditions and personal preference.",
+        "highlights": "Unawatuna; Dalawella area; rest",
+        "overnight": "Unawatuna"
+      },
+      {
+        "day": 4,
+        "title": "Weligama and the surf coast",
+        "description": "Travel east along the coast to Weligama. Beginners may arrange a lesson with a qualified surf instructor when conditions are suitable; non-surfers can simply enjoy the bay.",
+        "highlights": "Weligama Bay; coastal villages; surf option",
+        "overnight": "Weligama"
+      },
+      {
+        "day": 5,
+        "title": "The Mirissa mood",
+        "description": "Continue to Mirissa for a quiet day by the shoreline. A responsible, licensed whale-watching trip is a seasonal optional activity, not a guaranteed inclusion.",
+        "highlights": "Mirissa beach; coastal cafes; seasonal sea option",
+        "overnight": "Mirissa"
+      },
+      {
+        "day": 6,
+        "title": "Tangalle and slower shores",
+        "description": "Travel to the Tangalle area and choose a quieter beach setting. Spend the afternoon relaxing, reading, enjoying local seafood or taking an appropriate guided nature excursion.",
+        "highlights": "Tangalle; tranquil beaches; downtime",
+        "overnight": "Tangalle"
+      },
+      {
+        "day": 7,
+        "title": "Coast to airport",
+        "description": "Return toward Colombo and the airport with ample time for traffic and check-in. For early departures, the final night should be shifted closer to the airport.",
+        "highlights": "Coastal return; onward journey",
+        "overnight": "Departure"
+      }
+    ]
+  }
+]
